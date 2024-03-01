@@ -15,6 +15,6 @@
 
 ## Github
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=via-s-acc)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=via-s-acc)](https://github.com/via-s-acc)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=via-s-acc&layout=compact)](https://github.com/via-s-acc)
