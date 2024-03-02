@@ -17,8 +17,6 @@
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=via-s-acc)](https://github.com/via-s-acc)
 
-<<<<<<< Updated upstream
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=via-s-acc&layout=compact)](https://github.com/via-s-acc)
-=======
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/via-s-acc)
->>>>>>> Stashed changes
+
